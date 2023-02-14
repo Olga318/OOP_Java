@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1da9fe8d-1d10-4094-af25-60b905a796cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/seminar_4/FamilyPetr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/seminar_4/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/seminar_4/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seminar_5/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seminar_5/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seminar_5/CalculatorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seminar_5/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seminar_5/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seminar_5/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seminar_5/Subtraction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +53,13 @@
       <recent name="com.seminar_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main4">
-    <configuration name="FamilyTree3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.seminar_3.Task1.FamilyTree3" />
+  <component name="RunManager" selected="Application.CalculatorApp">
+    <configuration name="BasicCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.seminar_5.BasicCalculator" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.seminar_3.Task1.*" />
+          <option name="PATTERN" value="com.seminar_5.Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FamilyTree4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.seminar_3.Task2.FamilyTree4" />
+    <configuration name="BasicCalculatorIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.seminar_5.BasicCalculatorIfElse" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.seminar_3.Task2.*" />
+          <option name="PATTERN" value="com.seminar_5.Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +80,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.seminar_2.Task2.Main2" />
+    <configuration name="CalculatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.seminar_5.CalculatorApp" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.seminar_2.Task2.*" />
+          <option name="PATTERN" value="com.seminar_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.seminar_5.Main" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seminar_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,26 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.seminar_3.Main_3" />
-      <module name="OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.seminar_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculatorApp" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BasicCalculator" />
+        <item itemvalue="Application.BasicCalculatorIfElse" />
         <item itemvalue="Application.Main4" />
-        <item itemvalue="Application.FamilyTree3" />
-        <item itemvalue="Application.FamilyTree4" />
-        <item itemvalue="Application.Main_3" />
-        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
